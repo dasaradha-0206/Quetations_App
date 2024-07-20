@@ -1,0 +1,66 @@
+.box{
+    width: 589px;
+    margin: 20px auto;
+    color: white;
+    text-align: center;
+    border-radius: 20px; 
+    background-color: rgb(22, 226, 233);
+    
+}
+.Welecome{
+    padding: 20px; 
+    width: 550px;
+    height: 200px;
+    background-color:black;
+    border-radius: 15px;
+    color:white;
+
+}
+.Author{
+
+    width: 150px;
+    height: 50px;
+    margin-left: 400px;
+    background-color:orangered;
+    color: black;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: medium;
+}
+.button-box{
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.Authors{
+    width: 100px;
+    height: 50px;
+    background-color:orange;
+    color: black;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: medium;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.quote_generate{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 200px;
+    height: 50px;
+    background-color:rgb(102, 73, 105);
+    color: black;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: medium;
+}
+.quote-box{
+    height: 350px;
+}
